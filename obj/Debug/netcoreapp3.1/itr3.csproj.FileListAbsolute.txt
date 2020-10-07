@@ -1,0 +1,13 @@
+/home/yarmoliq/dev/itr3/bin/Debug/netcoreapp3.1/itr3
+/home/yarmoliq/dev/itr3/bin/Debug/netcoreapp3.1/itr3.deps.json
+/home/yarmoliq/dev/itr3/bin/Debug/netcoreapp3.1/itr3.runtimeconfig.json
+/home/yarmoliq/dev/itr3/bin/Debug/netcoreapp3.1/itr3.runtimeconfig.dev.json
+/home/yarmoliq/dev/itr3/bin/Debug/netcoreapp3.1/itr3.dll
+/home/yarmoliq/dev/itr3/bin/Debug/netcoreapp3.1/itr3.pdb
+/home/yarmoliq/dev/itr3/obj/Debug/netcoreapp3.1/itr3.csprojAssemblyReference.cache
+/home/yarmoliq/dev/itr3/obj/Debug/netcoreapp3.1/itr3.AssemblyInfoInputs.cache
+/home/yarmoliq/dev/itr3/obj/Debug/netcoreapp3.1/itr3.AssemblyInfo.cs
+/home/yarmoliq/dev/itr3/obj/Debug/netcoreapp3.1/itr3.csproj.CoreCompileInputs.cache
+/home/yarmoliq/dev/itr3/obj/Debug/netcoreapp3.1/itr3.dll
+/home/yarmoliq/dev/itr3/obj/Debug/netcoreapp3.1/itr3.pdb
+/home/yarmoliq/dev/itr3/obj/Debug/netcoreapp3.1/itr3.genruntimeconfig.cache
